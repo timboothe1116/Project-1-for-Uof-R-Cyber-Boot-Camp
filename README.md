@@ -14,7 +14,7 @@ https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/blob/main/A
 https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/blob/main/Ansible/dvwa-playbook.yml
 
 
-https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/Ansible/elk-playbook.yml
+https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/blob/main/Ansible/elk-playbook.yml
 
 This document contains the following details:
 - Description of the Topology
