@@ -11,7 +11,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/blob/main/Ansible/beats-playbook.yml
 
-https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/Ansible/dvwa-playbook.yml
+https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/blob/main/Ansible/dvwa-playbook.yml
 
 
 https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/Ansible/elk-playbook.yml
