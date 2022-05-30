@@ -9,7 +9,7 @@ https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/blob/main/D
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/Ansible/beats-playbook.yml
+https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/blob/main/Ansible/beats-playbook.yml
 
 https://github.com/timboothe1116/Project-1-for-Uof-R-Cyber-Boot-Camp/Ansible/dvwa-playbook.yml
 
