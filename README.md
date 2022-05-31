@@ -78,9 +78,9 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
 -What is the main advantage of automating configuration with Ansible? It streamlines the process by not having to manually configure ELK. It also oversaw with control what was being installed on the machine.
 
 The playbook implements the following tasks:
-- ... The first task of the elk playbook installs docker.io on the Elk virtual machine
-- ... Downloads, installs and executes the docker elk container on the Elk vm on restart so the elk container doesn't need to be manually started
-- ... Elk requires more virtual memory so this task increases the memory to 262144
+-The first task of the elk playbook installs docker.io on the Elk virtual machine
+-Downloads, installs and executes the docker elk container on the Elk vm on restart so the elk container doesn't need to be manually started
+-Elk requires more virtual memory so this task increases the memory to 262144
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
