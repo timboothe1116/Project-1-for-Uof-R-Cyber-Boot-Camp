@@ -48,7 +48,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 |Jump Box  | Gateway & Docker w/ Ansible| 10.7.0.4   | Linux Ubuntu     |
 | Web1     | Web Server used to run DVWA| 10.7.0.5   | Linux Ubuntu     |
 | Web2     | Web Server used to run DVWA| 10.7.0.6   | Linux Ubuntu     | 
-| Elkvm    | Run ELK Container & Kabana | 10.8.0.4   | Linux Ubuntu     |
+| Elkvm    | Run ELK Container & Kibana | 10.8.0.4   | Linux Ubuntu     |
 
 ### Access Policies
 
